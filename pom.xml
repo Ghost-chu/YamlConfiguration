@@ -22,7 +22,6 @@
     <scm>
       <url>https://github.com/EricRabil/YamlConfiguration.git</url>
     </scm>
-  <version>1.0</version>
 
   <distributionManagement>
         <repository>
